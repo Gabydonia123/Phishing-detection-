@@ -1,0 +1,6 @@
+{
+  "name": "Phishing Website Detection System",
+  "description": "Clean, reliable Phishing Website Detection System to check any URL or domain in real time against machine learning models and threat intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
